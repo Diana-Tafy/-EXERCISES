@@ -18,9 +18,9 @@ Each folder contains curated exercises that focus on specific components of the 
 
 ###Exercise 5: Business Analysis – Synthesizing the above skills to perform comprehensive business analysis, focusing on identifying trends, measuring performance, and supporting executive-level decision-making.
 
-### Exercise 6: Handling Nulls & Data Cleansing – Utilizing COALESCE, IFNULL, and conditional logic to manage missing data points, prevent calculation errors, and maintain metrics integrity.
+### Exercise 5: Handling Nulls & Data Cleansing – Utilizing COALESCE, NVL, and IS NULL logic to handle missing information, prevent calculation errors, and ensure data integrity.
 
-### Exercise 7: Date & Time Functions – Applying temporal operations like DATE_TRUNC, DATEDIFF, and date formatting to run time-series analysis, measure intervals, and track cyclical trends.
+### Exercise 6: Date & Time Functions – Mastering temporal analysis using DATE_TRUNC, DATEDIFF, and date formatting to track trends, calculate intervals, and perform time-series segmentation.
 
 🛠--- Progress & Methodology
 This repository is a living project. As I progress, each directory will be updated with:
